@@ -1,16 +1,7 @@
-# animations
+ # Animações no Flutter
+Este é um projeto de interface e animações desenvolvido com Flutter. Ele contém telas de login e tarefas, destacando transições suaves e animações elegantes.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# ✨ Recursos
+🎨 **Tela de Login com animações de entrada.**
+📜 **Lista de Tarefas com efeitos visuais.**
+🎭 **Animações Suaves usando AnimationController e CurvedAnimation.**
